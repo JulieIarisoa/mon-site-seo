@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://julieiarisoa.github.io/mon-site-seo/sitemap.xml
